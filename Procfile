@@ -1,1 +1,1 @@
-web: gunicorn realestate.wsgi
+web: gunicorn ecommerce.wsgi
